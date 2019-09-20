@@ -1,0 +1,41 @@
+body{
+     width: 1024px;
+     margin: 0 auto;
+}
+#photo{
+    width: 1024px;
+    opacity: 0.3;
+    position: fixed;
+    margin-top: 0;
+    z-index: -1;
+}
+a{
+    color: darkslategray;
+}
+h1,h2{
+    margin: auto;
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-align: center;
+}
+ul,li,p{
+    text-align: center;
+    font-family: 'Big Shoulders Display', sans-serif;
+}
+ul{
+    list-style-type: none;
+}
+h1{
+    font-size: 350%;
+    margin-bottom: 10px;
+}
+h2{
+    width:320px;
+    background-color: rgba(255, 204, 179, 0.35);
+    font-size: 270%;
+}
+li, p{
+    font-size: 220%;
+}
+#flag{
+    height: 30px;
+}
