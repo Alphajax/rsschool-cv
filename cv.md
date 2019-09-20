@@ -4,7 +4,7 @@
 
 ## First Name, Last Name
 
-**Dzmitry Chervanenka*
+**Dzmitry Chervanenka**
 
 ## Contacts:
 
