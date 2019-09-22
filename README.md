@@ -1,1 +1,1 @@
-https://Alphajax.github.io/rsschool-cv
+https://Alphajax.github.io/rsschool-cv/md
